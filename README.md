@@ -5,21 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=duesenbek" alt="duesenbek" /></a> </p>
 
-- 🔭 I’m currently working on [Vizom,Fotom](link will be soon(google play))
-
 - 🌱 I’m currently learning **Flutter**
-
-- 👯 I’m looking to collaborate on **Onside**
-
-- 👨‍💻 All of my projects are available at [github,as a private -_-](github,as a private -_-)
-
-- 📝 I regularly write articles on [chat gpt](chat gpt)
-
-- 💬 Ask me about **life**
-
+- 👨‍💻 All of my projects are available there
 - 📫 How to reach me **duesenbek@icloud.com**
-
-- ⚡ Fun fact **i can fly**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
